@@ -1,6 +1,4 @@
-# notes for this course can be found at:
-# https://deeplearningcourses.com/c/data-science-linear-regression-in-python
-# https://www.udemy.com/data-science-linear-regression-in-python
+
 
 from __future__ import print_function, division
 from builtins import range
